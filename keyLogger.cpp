@@ -5,7 +5,7 @@
 
 using namespace std;
 
-#include "getKey.h"
+#include "getKey.hpp"
 
 int main()
 {
